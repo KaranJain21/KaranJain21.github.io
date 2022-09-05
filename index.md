@@ -10,9 +10,7 @@ I am a fifth year PhD candidate at UC Berkeley working in the [**High Performanc
 My research theme is extending flight time of multirotors via novel concepts and design.
 My projects involve a combination of mechanical/electrical design, state estimation, disturbance rejection and sensor fusion.
 
-I am a receipient of the **Chang-Lin Tien Graduate Fellowship** (Spring 2022), and the **Graduate Division Block Grant Award** (Summer 2022, Summer 2020, Summer 2019).
-
-You can find my Resume [here](files/KaranJain_Resume_June2022.pdf).
+I am a recipient of the **Chang-Lin Tien Graduate Fellowship** (Spring 2022), and the **Graduate Division Block Grant Award** (Summer 2022, Summer 2020, Summer 2019).
 
 I previously interned at [Zipline](https://www.flyzipline.com/) during Summer 2021, where I worked on sensor characterization and analyzing thrust-torque margins for delivery drones.
 

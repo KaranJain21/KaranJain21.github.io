@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Publications
-permalink: /pubs
+permalink: /publications
 ---
-**Publications**
 
 **This list could be out of date. Please check my [Google Scholar](https://scholar.google.com/citations?user=HuolZxAAAAAJ) for the complete list of publications.**
 
