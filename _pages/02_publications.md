@@ -12,7 +12,14 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=HuolZ
   Jerry Tang, *Karan P. Jain*, Mark W. Mueller\\
   \[[PDF](https://hiperlab.berkeley.edu/wp-content/uploads/2022/09/2022_Tang_Quartm.pdf),
     [Video](https://www.youtube.com/watch?v=SaRGTph3AqU)\]\\
-  *Frontiers in Robotics and AI (under review)*
+  Accepted for publication in *Frontiers in Robotics and AI*\\
+  In the News: \[[New Atlas](https://newatlas.com/drones/quartm-drone-tilting-rotors/), [IEEE Spectrum](https://spectrum.ieee.org/video-friday-loona)\]
+
+* **Tethered Power for a Series of Quadcopters: Analysis and Applications**\\
+  *Karan P. Jain*, Prasanth Kotaru, Massimiliano de Sa, Koushil Sreenath, Mark W. Mueller\\
+  \[[arXiv](https://arxiv.org/abs/2203.08180),
+    [Video](https://www.youtube.com/watch?v=I7NbjkcJqZg)\]
+  Submitted to IEEE International Conference on Robotics and Automation (ICRA), 2023
 
 * **Docking two multirotors in midair using relative vision measurements**\\
   *Karan P. Jain*, Minos Park, Mark W. Mueller\\
@@ -33,7 +40,8 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=HuolZ
     [Publisher](https://ieeexplore.ieee.org/abstract/document/9197580/),
     [Video](https://www.youtube.com/watch?v=PpJIo4HXl_Q),
     [Presentation](https://www.youtube.com/watch?v=8hmI_LyQzPA)\]\\
-  *IEEE International Conference on Robotics and Automation (ICRA), 2020*
+  *IEEE International Conference on Robotics and Automation (ICRA), 2020*\\
+  In the News: \[[IEEE Spectrum](https://spectrum.ieee.org/swappable-flying-batteries-keep-drones-aloft-almost-forever), [Gizmodo](https://gizmodo.com/flying-replacement-batteries-could-massively-boost-a-dr-1838627300), [New Atlas](https://newatlas.com/drones/flying-batteries-drones-mid-air/), [hackster.io](https://www.hackster.io/news/berkeley-engineers-design-flying-swappable-batteries-for-drones-to-maintain-flight-91c0d2bddf5e), [InceptiveMind](https://www.inceptivemind.com/swappable-flying-batteries-keep-drones-air-long-time/9437/), [UPS Battery Center](https://www.upsbatterycenter.com/blog/swappable-drone-batteries-extend-flying-time/)\]
 
 * **Modeling of aerodynamic disturbances for proximity flight of multirotors**\\
   *Karan P Jain*, Trey Fortmuller, Jaeseung Byun, Simo A Makiharju, Mark W. Mueller\\
@@ -41,7 +49,3 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=HuolZ
     [Publisher](https://ieeexplore.ieee.org/abstract/document/8798116/)\]\\
   *IEEE International Conference on Unmanned Aerial Systems (ICUAS), 2019*
 
-* **Tethered Power Supply for Quadcopters: Architecture, Analysis and Experiments**\\
-  *Karan P. Jain*, Prasanth Kotaru, Massimiliano de Sa, Mark W. Mueller, Koushil Sreenath\\
-  \[[arXiv](https://arxiv.org/abs/2203.08180),
-    [Video](https://www.youtube.com/watch?v=I7NbjkcJqZg)\]
