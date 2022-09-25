@@ -10,7 +10,7 @@ Please check my [Google Scholar](https://scholar.google.com/citations?user=HuolZ
 
 * **QUaRTM: A Quadcopter with Unactuated Rotor Tilting Mechanism Capable of Faster, More Agile, and More Efficient Flight**\\
   Jerry Tang, *Karan P. Jain*, Mark W. Mueller\\
-  \[[PDF](https://hiperlab.berkeley.edu/wp-content/uploads/2022/09/2022_Tang_Quartm.pdf),
+  \[[PDF](https://hiperlab.berkeley.edu/wp-content/uploads/2022/09/Tang2022_Quartm.pdf),
     [Video](https://www.youtube.com/watch?v=SaRGTph3AqU)\]\\
   Accepted for publication in *Frontiers in Robotics and AI*\\
   In the News: \[[New Atlas](https://newatlas.com/drones/quartm-drone-tilting-rotors/), [IEEE Spectrum](https://spectrum.ieee.org/video-friday-loona)\]
